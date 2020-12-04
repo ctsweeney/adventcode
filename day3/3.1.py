@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 def read_map_file(filename: str):
-    """Used to open the password file and pass back the contents
+    """Used to open the map data file and pass back the contents
 
     Args:
-        filename (str): filepath/filename of password file
+        filename (str): filepath/filename of map file
 
     Returns:
         list: returns list of passwords to process
